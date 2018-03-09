@@ -1,5 +1,5 @@
 # React and Express Full-Stack Starter Pack
- Creater full stack app with React and Express. Run
+ Create full stack app with React and Express. Run
  client and server with a single command.
 
 ## Quick Start
